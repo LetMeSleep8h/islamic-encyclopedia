@@ -73,6 +73,8 @@ I have spent countless hours extracting, decrypting, and organizing raw Islamic 
  ┃   ┣ 📜 mishkat.db
  ┃   ┗ 📜 ... (and more)
 
+```
+
 🤝 How You Can Contribute & Expand This Project
 This project is simply too big for one person. I am making this open-source to invite passionate Muslim developers, data engineers, UI/UX designers, and translators from all over the world to join this Sadaqah Jariyah (continuous charity).
 Here is how you can jump in and help:
