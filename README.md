@@ -1,35 +1,60 @@
 <div align="center">
-📖 The Islamic Encyclopedia & Fiqh-e-Muqaran
-An Open-Source Movement to Unite the Ummah through Knowledge & Technology
-Open Source Love
 
-PRs Welcome
+# 📖 The Islamic Encyclopedia & Fiqh-e-Muqaran
+**An Open-Source Movement to Unite the Ummah through Knowledge & Technology**
 
-Tech Stack: Node.js | MongoDB | Kotlin
-Read this in: 🇸🇦 العربية (Arabic) | 🇵🇰 اردو (Urdu) | 🇮🇳 हिन्दी (Hindi) | 🇮🇩 Bahasa Indonesia | 🇲🇾 Bahasa Melayu (Malay) | 🇹🇷 Türkçe (Turkish) | 🇮🇷 فارسی (Persian) | 🇧🇩 বাংলা (Bengali) | 🇨🇳 中文 (Chinese) | 🇯🇵 日本語 (Japanese) | 🇰🇷 한국어 (Korean) | 🇫🇷 Français (French) | 🇪🇸 Español (Spanish) | 🇩🇪 Deutsch (German) | 🇷🇺 Русский (Russian) | 🇰🇪 Kiswahili (Swahili) | 🇳🇬 Hausa
-(Note: Translations for this README in the above languages will be added soon by our community contributors.)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](#)
+[![Tech Stack: Node.js | MongoDB | Kotlin](https://img.shields.io/badge/Tech-Node.js%20%7C%20MongoDB%20%7C%20Kotlin-blue)](#)
+
+Read this in: [🇸🇦 العربية (Arabic)](#) | [🇵🇰 اردو (Urdu)](#) | [🇮🇳 हिन्दी (Hindi)](#) | [🇮🇩 Bahasa Indonesia](#) | [🇲🇾 Bahasa Melayu (Malay)](#) | [🇹🇷 Türkçe (Turkish)](#) | [🇮🇷 فارسی (Persian)](#) | [🇧🇩 বাংলা (Bengali)](#) | [🇨🇳 中文 (Chinese)](#) | [🇯🇵 日本語 (Japanese)](#) | [🇰🇷 한국어 (Korean)](#) | [🇫🇷 Français (French)](#) | [🇪🇸 Español (Spanish)](#) | [🇩🇪 Deutsch (German)](#) | [🇷🇺 Русский (Russian)](#) | [🇰🇪 Kiswahili (Swahili)](#) | [🇳🇬 Hausa](#)
+
+*(Note: Translations for this README in the above languages will be added soon by our community contributors.)*
+
 </div>
-🌟 The Ultimate Goal & My Dream
-> "And hold firmly to the rope of Allah all together and do not become divided." — (Quran 3:103)
-> 
-The Muslim Ummah today is deeply divided into countless sects (Firkas) and groups. My dream and the core goal of this project is to eliminate these boundaries and bring everyone together simply as "Muslims", just as we were commanded.
-We aim to create a platform that provides authentic, evidence-based solutions to everyday Islamic issues (Masail). Instead of dictating rulings based on a specific sect, this project focuses on Fiqh-e-Muqaran (Comparative Jurisprudence). Every single ruling, solution, and piece of advice will be backed directly by clear references from the Holy Quran and authentic Ahadith (Sahih Sunnah).
+
+---
+
+## 🌟 The Ultimate Goal & My Dream
+
+> *"And hold firmly to the rope of Allah all together and do not become divided."* — (Quran 3:103)
+
+The Muslim Ummah today is deeply divided into countless sects (Firkas) and groups. **My dream and the core goal of this project is to eliminate these boundaries and bring everyone together simply as "Muslims"**, just as we were commanded. 
+
+We aim to create a platform that provides authentic, evidence-based solutions to everyday Islamic issues (Masail). Instead of dictating rulings based on a specific sect, this project focuses on **Fiqh-e-Muqaran (Comparative Jurisprudence)**. Every single ruling, solution, and piece of advice will be backed directly by clear references from the Holy Quran and authentic Ahadith (Sahih Sunnah). 
+
 This is not just an app; it is a movement to unite the Ummah through knowledge, research, and authentic references.
-📱 The Complete App Idea & Ecosystem
+
+---
+
+## 📱 The Complete App Idea & Ecosystem
+
 To achieve this dream, we are building a complete digital ecosystem featuring a robust Web Backend and Cross-Platform Mobile Apps. The platform rests on four main pillars:
- * 📖 The Quranic Center: A highly optimized database containing the Arabic text, Tajweed rules, word-by-word grammar breakdowns, and authentic translations in multiple languages.
- * 📚 The Hadith Library: A fully relational database of the Sihah Sittah (The Authentic Six) and other major Hadith collections, complete with Sanad (chain of narrators) and precise grading (Sahih/Hasan/Zaeef).
- * ⚖️ Ahkam-o-Masail (Daily Solutions): A real-life problem-solving section where everyday issues are addressed. Every ruling contains direct hyperlinks (database IDs) to the exact Quranic Ayah or Hadith that solves it.
- * 🌍 Research Forum (Community Hub): A dedicated, structured platform where researchers, scholars, and ordinary Muslims can discuss rulings, suggest corrections, and provide evidence in an open-source, troll-free environment.
-🛠️ Project Development & Hosting Roadmap
+
+*   **📖 The Quranic Center:** A highly optimized database containing the Arabic text, Tajweed rules, word-by-word grammar breakdowns, and authentic translations in multiple languages.
+*   **📚 The Hadith Library:** A fully relational database of the *Sihah Sittah* (The Authentic Six) and other major Hadith collections, complete with Sanad (chain of narrators) and precise grading (Sahih/Hasan/Zaeef).
+*   **⚖️ Ahkam-o-Masail (Daily Solutions):** A real-life problem-solving section where everyday issues are addressed. Every ruling contains direct hyperlinks (database IDs) to the exact Quranic Ayah or Hadith that solves it.
+*   **🌍 Research Forum (Community Hub):** A dedicated, structured platform where researchers, scholars, and ordinary Muslims can discuss rulings, suggest corrections, and provide evidence in an open-source, troll-free environment.
+
+---
+
+## 🛠️ Project Development & Hosting Roadmap
+
 This project is massive and requires a modern, highly scalable approach. Here is our tech stack and roadmap:
- * 🗄️ Database Consolidation: We have spent months cleaning, decrypting, and restructuring raw SQLite and JSON data to make it 100% developer-friendly.
- * ⚙️ Backend & Web Development: We are building a blazing-fast backend using Node.js, Express.js, TypeScript, and MongoDB. This REST/GraphQL API will serve as the central brain of the ecosystem.
- * ☁️ Global Hosting: We plan to host this database and API on a highly scalable cloud infrastructure, allowing developers worldwide to access the endpoints for free.
- * 📱 Mobile App: A modern, beautiful, offline-capable Android application built with Kotlin, Jetpack Compose, and Room DB.
-📂 What You Will Find in This Repository (Data Assets)
+
+*   **🗄️ Database Consolidation:** We have spent months cleaning, decrypting, and restructuring raw SQLite and JSON data to make it 100% developer-friendly.
+*   **⚙️ Backend & Web Development:** We are building a blazing-fast backend using **Node.js, Express.js, TypeScript, and MongoDB**. This REST/GraphQL API will serve as the central brain of the ecosystem.
+*   **☁️ Global Hosting:** We plan to host this database and API on a highly scalable cloud infrastructure, allowing developers worldwide to access the endpoints for free.
+*   **📱 Mobile App:** A modern, beautiful, offline-capable Android application built with **Kotlin, Jetpack Compose, and Room DB**.
+
+---
+
+## 📂 What You Will Find in This Repository (Data Assets)
+
 I have spent countless hours extracting, decrypting, and organizing raw Islamic data so you don't have to start from scratch. The data is logically separated into two main directories:
-📦 Repository Root
+
+```text
+📦 islamic-encyclopedia
  ┣ 📂 QURAN data
  ┃ ┗ 📜 quran.db              # Fully cleaned, decrypted, and optimized SQLite database of the Quran.
  ┃                            # Includes Arabic text, word-by-word dictionary, topics, and authentic translations.
@@ -62,3 +87,4 @@ Please read our CONTRIBUTING.md to understand how to fork the repository, set up
 
 <i>May Allah accept this effort from all of us. Ameen.</i>
 </div>
+
